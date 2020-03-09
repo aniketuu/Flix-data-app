@@ -8,6 +8,7 @@ function Navbar() {
       <nav className="navbar navbar-light bg-dark mb-5">
         <div className="container">
           <div className="navbar-header">
+          <a href='https://aniketuu.github.io/Flix-data-app' >
           <Tilt className="Tilt center" options={{ max : 25 }} style={{ height: 100, width: 100 }} >
                 <img className='Tilt-inner'
                     src='https://static.vecteezy.com/system/resources/previews/000/546/019/non_2x/vector-movie-theater-cinema-film-reel-unspooling.jpg' 
@@ -16,7 +17,7 @@ function Navbar() {
 
                     </img>
               </Tilt>
-
+          </a>
           </div>
           <ul className="navbar-nav ml-auto text-light d-inline-block">
             <li className="nav-item d-inline-block mr-4">
