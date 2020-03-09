@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Flix-data-app/static/css/main.d20d7e65.chunk.css",
+    "main.js": "/Flix-data-app/static/js/main.3aae7028.chunk.js",
+    "main.js.map": "/Flix-data-app/static/js/main.3aae7028.chunk.js.map",
+    "runtime-main.js": "/Flix-data-app/static/js/runtime-main.a216b6ed.js",
+    "runtime-main.js.map": "/Flix-data-app/static/js/runtime-main.a216b6ed.js.map",
+    "static/js/2.c59e2212.chunk.js": "/Flix-data-app/static/js/2.c59e2212.chunk.js",
+    "static/js/2.c59e2212.chunk.js.map": "/Flix-data-app/static/js/2.c59e2212.chunk.js.map",
+    "index.html": "/Flix-data-app/index.html",
+    "precache-manifest.e906e1533f7f26a9cb92eb037284aba6.js": "/Flix-data-app/precache-manifest.e906e1533f7f26a9cb92eb037284aba6.js",
+    "service-worker.js": "/Flix-data-app/service-worker.js",
+    "static/css/main.d20d7e65.chunk.css.map": "/Flix-data-app/static/css/main.d20d7e65.chunk.css.map",
+    "static/js/2.c59e2212.chunk.js.LICENSE.txt": "/Flix-data-app/static/js/2.c59e2212.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a216b6ed.js",
+    "static/js/2.c59e2212.chunk.js",
+    "static/css/main.d20d7e65.chunk.css",
+    "static/js/main.3aae7028.chunk.js"
+  ]
+}
